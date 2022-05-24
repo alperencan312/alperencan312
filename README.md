@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alperen, studying Computer Science in Bilkent University.
+- 👋 Hello, dear fellow! I’m Alperen, studying Computer Science in Bilkent University.
 - 👀 
 - 
 - 📫 alperen.can@ug.bilkent.edu.tr
